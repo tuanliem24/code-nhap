@@ -41,7 +41,7 @@ const ALLOWED_NAMES = [
     'Trọng', 'Uyên', 'Vi', 'Việt', 'Xuân', 'Quí', 'Tín', 'Đình', 'Kiên', 'Cẩm',
 
     // Thêm nhiều hơn nữa
-    'Bảo Anh', 'Bảo Ngọc', 'Minh Anh', 'Hà My', 'Gia Hân', 'Khánh Linh', 'Thiên An',
+    'Lan Anh', 'Bảo Ngọc', 'Minh Anh', 'Hà My', 'Gia Hân', 'Khánh Linh', 'Thiên An',
     'Trúc', 'Bằng', 'Châu', 'Thùy', 'Tường', 'Khả', 'Thục', 'Lương', 'Tấn',
     'Nguyên', 'Hồng', 'Tường Vy', 'Thanh', 'Hoan', 'Thắm', 'Thịnh', 'Thi',
     'Phương', 'Kiều', 'Nam Anh', 'Đông', 'Tố', 'Nguyệt', 'Bình Minh', 'Thái Sơn',
