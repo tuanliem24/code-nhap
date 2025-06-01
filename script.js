@@ -28,8 +28,8 @@ const CONFIG = {
 const ALLOWED_NAMES = [
     // Tên gốc (đã có)
     'An', 'Anh', 'Bảo', 'Bình', 'Chi', 'Duy', 'Đức', 'Giang', 'Hà', 'Hải',
-    'Hạnh', 'Hiếu', 'Hòa', 'Hùng', 'Hương', 'Khang', 'Khánh', 'Khôi', 'Lan', 'Linh',
-    'Long', 'Mai', 'Minh', 'Nam', 'Nga', 'Ngọc', 'Nhung', 'Phong', 'Phúc', 'Quang',
+    'Hạnh', 'Hiếu', 'Hòa', 'Hùng', 'Hương', 'Khang', 'Vân', 'Khôi', 'Lan', 'Linh',
+    'Long', 'Mai', 'Minh', 'Lương', 'Nga', 'Ngọc', 'Nhung', 'Phong', 'Phúc', 'Quang',
     'Quốc', 'Sơn', 'Tâm', 'Thảo', 'Huy', 'Thu', 'Thúy', 'Trang', 'Trung', 'Tú',
     'Tuấn', 'Tùng', 'Văn', 'Liêm', 'Vũ', 'Yến',
 
